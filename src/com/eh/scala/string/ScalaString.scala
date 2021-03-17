@@ -1,8 +1,8 @@
 package com.eh.scala.string
 /**
- * @author    Md. Emran Hossain <emranhos1@gmail.com>
+ * @author   Md. Emran Hossain <emranhos1@gmail.com>
  * @version  1.0.00 EH
- * @since      1.0.00 EH
+ * @since    1.0.00 EH
  */
 object ScalaString {
 
